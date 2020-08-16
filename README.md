@@ -1,2 +1,2 @@
 # singapore-pools-data-analysis
-![Graphic](/data visualisation/graphic.png)
+![Graphic](https://github.com/bqxy/singapore-pools-data-analysis/data visualisation/graphic.png)
